@@ -27,11 +27,11 @@ const nicola = {
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nicolastorgato/nicolastorgato">
-  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastorgato&theme=default&show_icons=true&langs_count=6&layout=compact" />
+  <img height=160px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastorgato&theme=default&show_icons=true&langs_count=6&layout=compact" />
 </a>
 
 <a href="https://github.com/nicolastorgato/nicolastorgato">
-  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=nicolastorgato&show_icons=true&line_height=27&count_private=true&theme=default&hide=prs" alt="Nicola's GitHub Stats" />
+  <img height=160px align="center" src="https://github-readme-stats.vercel.app/api?username=nicolastorgato&show_icons=true&line_height=27&count_private=true&theme=default&hide=prs" alt="Nicola's GitHub Stats" />
 </a>
 
 
