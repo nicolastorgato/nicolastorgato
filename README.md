@@ -12,14 +12,14 @@ const nicola = {
   tools: ["React", "Laravel", "Tailwind"],
   hobbies: ["music", "fitness", "photography", "meditation"],
   motto: "Become the greatest version of yourself",
-  ibelievein: ["kaizen", "keepimproving", "karma"]
-}
+  ibelievein: ["kaizen", "whatgoesaroundcomesaround", "karma"]
+};
 ```
 
 ### 📬 Get in Touch
 
-- [GitHub](github.com/nicolastorgato)
-- [LinkedIn](linkedin.com/nicolastorgato)
+- [GitHub](https://github.com/nicolastorgato)
+- [LinkedIn](https://www.linkedin.com/in/nicolastorgato/)
 - [Personal Website](www.nicolastorgato.com)
 - nstorgato@yahoo.it
 
@@ -36,5 +36,5 @@ const nicola = {
 
 
 <br>
-
+<br>
 <em><b>Always try to be the greatest version of yourself</b> 💪</em>
