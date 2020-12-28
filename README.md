@@ -11,7 +11,7 @@ const nicola = {
   code: ["PHP", "Javascript", "Typescript", "HTML", "CSS"],
   tools: ["React", "Laravel", "Tailwind"],
   hobbies: ["music", "fitness", "photography", "meditation"],
-  motto: "Become the greatest version of yourself",
+  motto: "Be the greatest version of yourself",
   ibelievein: ["kaizen", "whatgoesaroundcomesaround", "karma"]
 };
 ```
