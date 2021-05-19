@@ -9,7 +9,7 @@ const nicola = {
   age: 24,
   from: "Italy",
   code: ["PHP", "Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Laravel", "Tailwind"],
+  tools: ["Laravel", "Tailwind", "Vue"],
   hobbies: ["music", "fitness", "photography", "meditation"],
   motto: "Be the greatest version of yourself",
   ibelievein: ["kaizen", "whatgoesaroundcomesaround", "karma"]
