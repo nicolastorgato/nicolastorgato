@@ -10,7 +10,7 @@ const nicola = {
   from: "Italy",
   code: ["PHP", "Javascript", "Typescript", "HTML", "CSS"],
   tools: ["Laravel", "Tailwind", "Vue"],
-  hobbies: ["music", "fitness", "photography", "meditation"],
+  hobbies: ["music", "fitness", "photography", "languages"],
   motto: "Be the greatest version of yourself",
   ibelievein: ["kaizen", "whatgoesaroundcomesaround", "karma"]
 };
