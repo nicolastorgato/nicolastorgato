@@ -1,6 +1,6 @@
 ### Hello, I'm Nicola 👋
 
-I'm a Junior Web Developer with passion for fitness, music and languages. Graduated in Multimedia Sciences & Technologies at [University of Udine](https://www.uniud.it/en/uniud-international?set_language=en). Fascinated by everything that's multimedial. Proudly from [Treviso, Italy](https://it.wikipedia.org/wiki/Treviso) 🇮🇹
+I'm a Junior Web Developer with passion for photography, music and languages. Graduated in Multimedia Sciences & Technologies at [University of Udine](https://www.uniud.it/en/uniud-international?set_language=en). Fascinated by everything that's multimedial. Proudly from [Treviso, Italy](https://it.wikipedia.org/wiki/Treviso) 🇮🇹
 
 ### 👦 About me
 
@@ -8,11 +8,11 @@ I'm a Junior Web Developer with passion for fitness, music and languages. Gradua
 const nicola = {
   age: 25,
   from: "Italy",
-  code: ["PHP", "Javascript", "Typescript", "HTML", "CSS"],
+  code: ["PHP", "Javascript", "HTML", "CSS"],
   tools: ["Laravel", "Tailwind", "Vue"],
-  hobbies: ["music", "fitness", "photography", "languages"],
+  hobbies: ["music", "photography", "languages"],
   motto: "Be the greatest version of yourself",
-  ibelievein: ["kaizen", "whatgoesaroundcomesaround", "karma"]
+  ibelievein: ["kaizen", "sisu", "karma"]
 };
 ```
 
