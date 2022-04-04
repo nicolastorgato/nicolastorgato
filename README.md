@@ -18,7 +18,7 @@ const nicola = {
 
 ### 📬 Get in Touch
 
-- [GitHub](https://github.com/nicolastorgato), [LinkedIn](https://www.linkedin.com/in/nicolastorgato/), [Personal Website](https://www.nicolastorgato.com/), nstorgato@yahoo.it
+- [GitHub](https://github.com/nicolastorgato), [LinkedIn](https://www.linkedin.com/in/nicolastorgato/), [Personal Website](https://www.nicolastorgato.com/)
 
 
 ### &#x1f4c8; GitHub Stats
