@@ -12,7 +12,6 @@ const nicola = {
   tools: ["Laravel", "Tailwind", "Vue"],
   hobbies: ["music", "photography", "languages"],
   motto: "Be the greatest version of yourself",
-  ibelievein: ["kaizen", "sisu", "karma"]
 };
 ```
 
