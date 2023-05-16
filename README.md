@@ -6,7 +6,7 @@ I'm a Junior Web Developer with passion for photography, music and languages. Gr
 
 ```javascript
 const nicola = {
-  age: 25,
+  age: 27,
   from: "Italy",
   code: ["PHP", "Javascript", "HTML", "CSS"],
   tools: ["Laravel", "Tailwind", "Vue"],
